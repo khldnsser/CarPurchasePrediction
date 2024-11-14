@@ -3,19 +3,6 @@
 
 This project is a machine learning model built to predict whether a person will purchase a car based on their demographic and financial data. The model is implemented using Python with Keras for the neural network and is designed to be run in a Google Colab or local environment.
 
-## Project Structure
-
-```
-CarPurchasePrediction/
-├── README.md                   # Project documentation
-├── data/
-│   └── car_data.csv            # Dataset for training and testing the model
-├── notebook/
-│   └── CarPurchasePrediction.ipynb  # Jupyter notebook with the complete workflow
-├── requirements.txt            # List of dependencies for the project
-└── src/
-    └── carpurchaseprediction.py # Python script for the model
-```
 
 ## Installation
 
@@ -24,8 +11,7 @@ CarPurchasePrediction/
 To set up the project locally, clone the repository:
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/CarPurchasePrediction.git
-cd CarPurchasePrediction
+git clone https://github.com/khldnsser/CarPurchasePrediction/
 ```
 
 ### Setting Up the Virtual Environment
