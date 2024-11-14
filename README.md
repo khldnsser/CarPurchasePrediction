@@ -50,6 +50,8 @@ The dataset, `car_data.csv`, is located in the `data/` folder and includes the f
 - **Age**: Age of the user.
 - **AnnualSalary**: The user's annual salary.
 - **Purchased**: Target variable indicating whether the user purchased a car (1 for Yes, 0 for No).
+- Kaggle Dataset: https://www.kaggle.com/datasets/gabrielsantello/cars-purchase-decision-dataset?select=car_data.csv
+
 
 ## Model
 
