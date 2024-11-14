@@ -81,21 +81,6 @@ To run the model from the command line, execute:
 python src/carpurchaseprediction.py
 ```
 
-## Interactive Prediction Demo
-
-The project includes an interactive function, `predict_purchase`, which allows you to enter a person's demographic data (gender, age, and annual salary) to get a prediction on whether they are likely to purchase a car.
-
-### Running the Interactive Demo
-
-You can run the demo by executing the following code within the script:
-
-```python
-def predict_purchase(model, scaler):
-    # Prompt the user for input and preprocess the data
-    ...
-    # Make a prediction based on the input data
-    ...
-```
 
 ## Requirements
 
